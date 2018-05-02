@@ -29,11 +29,11 @@ __**Themenblock II**__
 
 #VSLIDE
 
-   Tripelstruktur (= RDF-Triple) -> <Subjekt><Prädikat><Objekt>
+   * Tripelstruktur (= RDF-Triple) -> <Subjekt><Prädikat><Objekt>
    
-   Jedes Triple – eine Aussage (RDF-Statement)
+   * Jedes Triple – eine Aussage (RDF-Statement)
    
-   Subjekt und Prädikat werden durch URI bezeichnet, Objekt – durch einen URI oder ein RDF-Literal
+   * Subjekt und Prädikat werden durch URI bezeichnet, Objekt – durch einen URI oder ein RDF-Literal
    
-   Ausnahme: Blank Nodes – Leere Knoten zur Beschreibung von unbenannten Ressourcen **Vgl. Hitzler u. a.(2008), S.40**
+   * Ausnahme: Blank Nodes – Leere Knoten zur Beschreibung von unbenannten Ressourcen **Vgl. Hitzler u. a.(2008), S.40**
 
