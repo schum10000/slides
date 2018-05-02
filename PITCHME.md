@@ -1,22 +1,27 @@
 #HSLIDE
 
-# git Workshop
+## Semantic Web
+# Block II
 
-## Get Into git easily
-
-Norbert Eder
-[@norberteder](https://www.twitter.com/norberteder)
+Sebastian S.
+[@im_hsh](https://twitter.com/im_hsh)
 
 #HSLIDE
 
 ## Glossary 1
 
 Topic | Description
------ | -----------
-Blame | Show annotation
-Clone | Clone a repository into a new directory
-Checkout | Switch branches or restore working tree files
-Merge | Join two or more development histories together
+
+Serialisierung von RDF ( Turtle, N-Triples) 
+--------------------------------------------
+
+RDF/XML
+--------------------------------------------
+
+Wissensorganisation mit Vokabularen
+
+-------------------------------------------- 
+
 
 #VSLIDE
 
