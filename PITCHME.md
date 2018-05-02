@@ -29,7 +29,7 @@ __**Themenblock II**__
 
 #VSLIDE
 
-   * Tripelstruktur (= RDF-Triple) -> \<Subjekt\>\<Prädikat\>\<Objekt\>
+   * Tripelstruktur (= RDF-Triple) -> \<Subjekt><Prädikat><Objekt>
    
    * Jedes Triple – eine Aussage (RDF-Statement)
    
