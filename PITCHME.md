@@ -10,10 +10,10 @@ Hochschule H,
 
 __**Themenblock II**__
 
-   Serialisierung von RDF ( Turtle, N-Triples) 
+      Serialisierung von RDF ( Turtle, N-Triples) 
 
    -------------------------------------------- 
-   RDF/XML
+      RDF/XML
 
    -------------------------------------------- 
    Wissensorganisation mit Vokabularen
