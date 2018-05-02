@@ -8,7 +8,7 @@ Hochschule H,
 
 #HSLIDE
 
-|-:|#Themenblock II
+__**Themenblock II**__
 
    Serialisierung von RDF ( Turtle, N-Triples) 
 
