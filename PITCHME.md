@@ -22,13 +22,18 @@ __**Themenblock II**__
    -------------------------------------------- 
 
 
+#HSLIDE
+
+## Serialisierung von RDF 
+##      (Turtle, N-Triples) 
+
 #VSLIDE
 
-## Glossary 2
+   Tripelstruktur (= RDF-Triple) -> <Subjekt><Prädikat><Objekt>
+   
+   Jedes Triple – eine Aussage (RDF-Statement)
+   
+   Subjekt und Prädikat werden durch URI bezeichnet, Objekt – durch einen URI oder ein RDF-Literal
+   
+   Ausnahme: Blank Nodes – Leere Knoten zur Beschreibung von unbenannten Ressourcen **Vgl. Hitzler u. a.(2008), S.40**
 
-Topic | Description
------ | -----------
-Pull | Incorporates changes from a remote repository into the current branch
-Push | Updates remote refs using local refs
-Remotes | Repositories on internet or network
-Stash | Shelve the changes in a dirty working directory away
