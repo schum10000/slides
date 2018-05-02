@@ -3,21 +3,19 @@
 ## Semantic Web
 # Block II
 
-Sebastian S.
+Hochschule H,
 [@im_hsh](https://twitter.com/im_hsh)
 
 #HSLIDE
 
-## Glossary 1
-
-Topic | Description
+## Themenblock II ##
 
 Serialisierung von RDF ( Turtle, N-Triples) 
---------------------------------------------
 
+-------------------------------------------- 
 RDF/XML
---------------------------------------------
 
+-------------------------------------------- 
 Wissensorganisation mit Vokabularen
 
 -------------------------------------------- 
