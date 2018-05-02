@@ -8,17 +8,17 @@ Hochschule H,
 
 #HSLIDE
 
-## Themenblock II ##
+-: ## __Themenblock II__ ##
 
-Serialisierung von RDF ( Turtle, N-Triples) 
+   Serialisierung von RDF ( Turtle, N-Triples) 
 
--------------------------------------------- 
-RDF/XML
+   -------------------------------------------- 
+   RDF/XML
 
--------------------------------------------- 
-Wissensorganisation mit Vokabularen
+   -------------------------------------------- 
+   Wissensorganisation mit Vokabularen
 
--------------------------------------------- 
+   -------------------------------------------- 
 
 
 #VSLIDE
