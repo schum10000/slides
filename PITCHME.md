@@ -29,7 +29,7 @@ __**Themenblock II**__
 
 #VSLIDE
 
-__**RDF Wiederholung**__
+##**RDF Wiederholung**##
 ======================
 
    * Tripelstruktur (= RDF-Triple) -> \<Subjekt><Prädikat><Objekt>
