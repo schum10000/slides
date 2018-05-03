@@ -23,7 +23,8 @@ Hochschule H,
 
 
 #HSLIDE
-
+   
+   
 ## Serialisierung von RDF 
 ##      (Turtle, N-Triples) 
 
