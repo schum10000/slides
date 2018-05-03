@@ -28,8 +28,8 @@ __**Themenblock II**__
 ##      (Turtle, N-Triples) 
 
 #VSLIDE
-__**RDF 
-    Wiederholung**__
+
+__**RDF Wiederholung**__
 ======================
 
    * Tripelstruktur (= RDF-Triple) -> \<Subjekt><Prädikat><Objekt>
