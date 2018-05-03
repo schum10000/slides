@@ -29,10 +29,10 @@ __**Themenblock II**__
 
 #VSLIDE
 
-##**RDF Wiederholung**##
-======================
+## **RDF Wiederholung**
+=======================
 
-   * Tripelstruktur (= RDF-Triple) -> \<Subjekt><Prädikat><Objekt>
+   * Tripelstruktur (= RDF-Triple) -> \<Subjekt><Prädikat>\<Objekt>
    
    * Jedes Triple – eine Aussage (RDF-Statement)
    
