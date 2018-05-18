@@ -25,7 +25,7 @@ Hochschule H,
 #HSLIDE
    
    
-# Serialisierung von RDF 
+## Serialisierung von RDF 
 ##      (Turtle, N-Triples) 
 
 #VSLIDE
@@ -33,8 +33,8 @@ Hochschule H,
 # RDF Wiederholung
 --------------------------------------------
 
-   * Tripelstruktur (= RDF-Triple) -> 
-   &lt;Subjekt&lt;Prädikat&lt;Objekt&lt;
+   * Tripelstruktur (= RDF-Triple) -&gt; 
+   &lt;Subjekt&gt;&lt;Prädikat&gt;&lt;Objekt&gt;
    
    * Jedes Triple – eine Aussage (RDF-Statement)
    
