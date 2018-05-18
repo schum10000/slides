@@ -32,13 +32,13 @@ Hochschule H,
 ## RDF Wiederholung ##
 --------------------------------------------
   * Tripelstruktur (= RDF-Triple) -&gt;  
-######   **&lt;Subjekt&gt;&lt;Prädikat&gt;&lt;Objekt&gt;**
+  *   **&lt;Subjekt&gt;&lt;Prädikat&gt;&lt;Objekt&gt;**
    
-#####   - Jedes Triple – eine Aussage (RDF-Statement)
+  * Jedes Triple – eine Aussage (RDF-Statement)
    
-#####   - Subjekt und Prädikat werden durch URI bezeichnet, Objekt – durch einen URI oder ein RDF-Literal
+  * Subjekt und Prädikat werden durch URI bezeichnet, Objekt – durch einen URI oder ein RDF-Literal
    
-#####   - Ausnahme: Blank Nodes – Leere Knoten zur Beschreibung von unbenannten Ressourcen >**Vgl. Hitzler u. a.(2008), S.40**
+  * Ausnahme: Blank Nodes – Leere Knoten zur Beschreibung von unbenannten Ressourcen >**Vgl. Hitzler u. a.(2008), S.40**
 
 ![Logo](pics/bild1.png&size=auto 25%)
 ``---?image=pics/bild1.png&size=auto 25%
