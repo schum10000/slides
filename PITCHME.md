@@ -34,7 +34,7 @@ Hochschule H,
 --------------------------------------------
 
    * Tripelstruktur (= RDF-Triple) -&gt;  
-   &lt;Subjekt&gt;&lt;Prädikat&gt;&lt;Objekt&gt;
+   **&lt;Subjekt&gt;&lt;Prädikat&gt;&lt;Objekt&gt;**
    
    * Jedes Triple – eine Aussage (RDF-Statement)
    
