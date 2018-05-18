@@ -41,7 +41,7 @@ Hochschule H,
   * Ausnahme: Blank Nodes – Leere Knoten zur Beschreibung von unbenannten Ressourcen  
   ###### Vgl. Hitzler u. a.(2008), S.40 ######
 
-![Logo](pics/bild1.png&size=auto 25%)
+![Logo](pics/bild1.png)&size=auto 25%
 ``---?image=pics/bild1.png&size=auto 25%
 #VSLIDE 
    ![Alternativer Text](/pics/bild1.png)
