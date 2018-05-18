@@ -31,7 +31,7 @@ Hochschule H,
 #VSLIDE
 ## RDF Wiederholung ##
 --------------------------------------------
-```
+```ruby
   * Tripelstruktur (= RDF-Triple) -&gt;  
   *   **&lt;Subjekt&gt;&lt;Prädikat&gt;&lt;Objekt&gt;**
    
