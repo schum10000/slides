@@ -29,7 +29,7 @@ Hochschule H,
 ##      (Turtle, N-Triples) 
 
 #VSLIDE
-
+---?image=pics/bild1.png&size=auto 25%
 ## RDF Wiederholung
 --------------------------------------------
 ###
