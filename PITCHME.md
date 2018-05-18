@@ -1,15 +1,15 @@
 #HSLIDE
 
-## Semantic Web
-# Block II
+# Semantic Web
+## Block II
 
 Hochschule H,
 [@im_hsh](https://twitter.com/im_hsh)
 
 #HSLIDE
 
- __**Themenblock II**__
- ======================
+ #**Themenblock II**
+ 
 
    Serialisierung von RDF ( Turtle, N-Triples) 
 
@@ -26,14 +26,15 @@ Hochschule H,
    
    
 ## Serialisierung von RDF 
-##      (Turtle, N-Triples) 
+#      (Turtle, N-Triples) 
 
 #VSLIDE
 
-## **RDF Wiederholung**
+# RDF Wiederholung
 --------------------------------------------
 
-   * Tripelstruktur (= RDF-Triple) -> &lt;Subjekt&lt;Prädikat&lt;Objekt&lt;
+   * Tripelstruktur (= RDF-Triple) -> 
+   &lt;Subjekt&lt;Prädikat&lt;Objekt&lt;
    
    * Jedes Triple – eine Aussage (RDF-Statement)
    
