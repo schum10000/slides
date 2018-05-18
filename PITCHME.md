@@ -41,7 +41,7 @@ Hochschule H,
    * Subjekt und Prädikat werden durch URI bezeichnet, Objekt – durch einen URI oder ein RDF-Literal
    
    * Ausnahme: Blank Nodes – Leere Knoten zur Beschreibung von unbenannten Ressourcen >**Vgl. Hitzler u. a.(2008), S.40**
-   
+#VSLIDE   
    ![Alternativer Text](/pics/bild1.png)
    
 
