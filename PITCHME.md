@@ -28,7 +28,10 @@ Hochschule H,
 ## Serialisierung von RDF 
 ##      (Turtle, N-Triples) 
 
-
+@div[left-50]
+<br><br>
+![MONKEY](pics/bild1.png)
+@divend
 ---?image=pics/bild1.png&size=auto 25%&position = bottom 550px right 100px
 
 ## RDF Wiederholung ##
