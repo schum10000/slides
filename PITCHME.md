@@ -28,7 +28,7 @@ Hochschule H,
 ## Serialisierung von RDF 
 ##      (Turtle, N-Triples) 
 
-#VSLIDE
+
 --?image=pics/bild1.png&size=auto 25%&position = bottom 50px right 100px
 
 ## RDF Wiederholung ##
