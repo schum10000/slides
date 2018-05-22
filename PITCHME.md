@@ -29,12 +29,6 @@ Hochschule H,
 ##      (Turtle, N-Triples) 
 
 #VSLIDE
-``@div[right-50]
-<br><br>
-![MONKEY](pics/bild1.png)
-@divend
----?image=pics/bild1.png&size=auto 25%&position = bottom 550px right 100px``
-
 ## RDF Wiederholung ##
 --------------------------------------------
 @div[left-50]
@@ -55,7 +49,7 @@ Hochschule H,
 @div[right-50]
 
 <br>
-![MONKEY](pics/bild1.png)
+![MONKEY](pics/bild1.png&size=50%)
 @divend
 
 #VSLIDE
