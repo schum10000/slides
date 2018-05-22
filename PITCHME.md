@@ -45,7 +45,7 @@ Hochschule H,
 @ulend
 @divend
 
-@div[right-20]
+@div[right-40]
 
 <br>
 ![Bild](pics/bild1.png)
