@@ -28,7 +28,7 @@ Hochschule H,
 ## Serialisierung von RDF 
 ##      (Turtle, N-Triples) 
 
----?image=assets/pics/bild.png&size=auto 20%&position=bottom&color=#CCDAE7
+---?image=assets/pics/bild1.png&size=auto 20%&position= bottom 550 right 100 
 ## RDF Wiederholung ##
 --------------------------------------------
   * Tripelstruktur (= RDF-Triple) -&gt;  
