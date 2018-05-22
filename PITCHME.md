@@ -44,7 +44,13 @@ Hochschule H,
 
 ``![Logo](pics/bild1.png)&size=auto 25%``
 ---?image=pics/bild1.png&size=auto 25%&position = right&position = bottom
-#VSLIDE 
-   ![Alternativer Text](/pics/bild1.png)
-   
+#VSLIDE
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
