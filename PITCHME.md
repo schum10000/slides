@@ -28,11 +28,9 @@ Hochschule H,
 ## Serialisierung von RDF 
 ##      (Turtle, N-Triples) 
 
-#VSLIDE
+---?image=assets/pics/bild.png&size=auto 20%&position=bottom&color=#CCDAE7
 ## RDF Wiederholung ##
 --------------------------------------------
-@div[left-80]
-@ul[brighten]
   * Tripelstruktur (= RDF-Triple) -&gt;  
   *   **&lt;Subjekt&gt;&lt;Prädikat&gt;&lt;Objekt&gt;**
    
@@ -42,15 +40,6 @@ Hochschule H,
    
   * Ausnahme: Blank Nodes – Leere Knoten zur Beschreibung von unbenannten Ressourcen  
   ###### Vgl. Hitzler u. a.(2008), S.40 ######
-@ulend
-@divend
-
-@div[right-40]
-
-<br>
-![Bild](pics/bild1.png)
-@divend
-
 #VSLIDE
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
