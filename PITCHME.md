@@ -31,8 +31,7 @@ Hochschule H,
 #VSLIDE
 ## RDF Wiederholung ##
 --------------------------------------------
-@div[left-50]
-<br><br><br>
+@div[left--150]
 @ul[brighten]
   * Tripelstruktur (= RDF-Triple) -&gt;  
   *   **&lt;Subjekt&gt;&lt;Prädikat&gt;&lt;Objekt&gt;**
@@ -46,10 +45,10 @@ Hochschule H,
 @ulend
 @divend
 
-@div[right-50]
+@div[right--150]
 
 <br>
-![MONKEY](pics/bild1.png&size=50%)
+![Bild](pics/bild1.png)
 @divend
 
 #VSLIDE
