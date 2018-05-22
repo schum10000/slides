@@ -29,6 +29,7 @@ Hochschule H,
 ##      (Turtle, N-Triples) 
 
 #VSLIDE
+---?image=pics/bild1.png&size=auto 15%&position = bottom 50px right 100px
 ## RDF Wiederholung ##
 --------------------------------------------
 
@@ -42,8 +43,6 @@ Hochschule H,
   * Ausnahme: Blank Nodes – Leere Knoten zur Beschreibung von unbenannten Ressourcen  
   ###### Vgl. Hitzler u. a.(2008), S.40 ######
 
-``![Logo](pics/bild1.png)&size=auto 25%``
----?image=pics/bild1.png&size=auto 15%&position = bottom 50px right 100px
 #VSLIDE
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
