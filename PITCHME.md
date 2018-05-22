@@ -29,15 +29,17 @@ Hochschule H,
 ##      (Turtle, N-Triples) 
 
 #VSLIDE
-@div[right-50]
+``@div[right-50]
 <br><br>
 ![MONKEY](pics/bild1.png)
 @divend
-``---?image=pics/bild1.png&size=auto 25%&position = bottom 550px right 100px``
+---?image=pics/bild1.png&size=auto 25%&position = bottom 550px right 100px``
 
 ## RDF Wiederholung ##
 --------------------------------------------
-
+@div[left-50]
+<br><br><br>
+@ul[brighten]
   * Tripelstruktur (= RDF-Triple) -&gt;  
   *   **&lt;Subjekt&gt;&lt;Prädikat&gt;&lt;Objekt&gt;**
    
@@ -47,6 +49,14 @@ Hochschule H,
    
   * Ausnahme: Blank Nodes – Leere Knoten zur Beschreibung von unbenannten Ressourcen  
   ###### Vgl. Hitzler u. a.(2008), S.40 ######
+@ulend
+@divend
+
+@div[right-50]
+
+<br>
+![MONKEY](pics/bild1.png)
+@divend
 
 #VSLIDE
 | Tables        | Are           | Cool  |
