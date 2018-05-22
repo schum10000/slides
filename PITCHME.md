@@ -32,7 +32,7 @@ Hochschule H,
 ## RDF Wiederholung ##
 --------------------------------------------
 
-  * Tripelstruktur (= RDF-Triple) -&gt;  
+  * Tripelstruktur `(= RDF-Triple)` -&gt;  
   *   **&lt;Subjekt&gt;&lt;Prädikat&gt;&lt;Objekt&gt;**
    
   * Jedes Triple – eine Aussage (RDF-Statement)
